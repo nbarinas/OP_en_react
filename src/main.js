@@ -35,7 +35,7 @@ function Main() {
                 <a class="list-menu" href="./">Ver Resumen Gerencial Gastos por Marca</a>
             </li>
         </ul>
-        <Link to="/OP">Ir a Página 1</Link>
+        <Link to="/OP">Ir a Página 1</Link>1
 
         <img src={quala} alt="Logo de Quala" />
     </main>
